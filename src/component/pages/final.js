@@ -10,7 +10,11 @@ function Final() {
   return (
     <div className="font-ibm-plex-mono">
       <div className="flex">
-        <img className="h-32" src={logo} alt="unityHublogo" />
+        <Link to="/">
+          <button>
+            <img className="h-32" src={logo} alt="unityHublogo" />
+          </button>
+        </Link>
         <div className="flex absolute right-20 top-10" id="nav">
           <div className="m-5 text-xl text-white flex items-center justify-center">
             <FaTrophy></FaTrophy>
