@@ -13,11 +13,15 @@ function Navbar() {
         <div className="flex absolute right-20 top-10">
           <div className="m-5 text-xl text-white flex items-center justify-center">
             <FaTrophy></FaTrophy>
-            <button className="ml-4 hover:scale-105">join challenge</button>
+            <Link to="/Join">
+              <button className="ml-4 hover:scale-105">join challenge</button>
+            </Link>
           </div>
           <div className="m-5 text-xl text-white flex items-center justify-center">
             <FiEdit></FiEdit>
-            <button className="ml-4 hover:scale-105">create challenge</button>
+            <Link to="/create">
+              <button className="ml-4 hover:scale-105">create challenge</button>
+            </Link>
           </div>
         </div>
       </div>
@@ -43,7 +47,9 @@ function Navbar() {
         </div>
         <div className="ml-10 bg-custom-green p-3 rounded-lg w-3/12 items-center justify-center flex">
           <FiEdit></FiEdit>
-          <button className="ml-5 hover:scale-105">create challenge</button>
+          <Link to="/create">
+            <button className="ml-5 hover:scale-105">create challenge</button>
+          </Link>
         </div>
       </div>
       <div className="text-xl flex bg-custom-purple text-white absolute bottom-10 right-10 p-3 rounded-lg  w-2/12 items-center justify-center">

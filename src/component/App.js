@@ -1,9 +1,11 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./Navbar";
-import JoinChallenge from "./pages/JoinChallenge";
+import Join from "./pages/Join";
+import Create from "./pages/create";
+import Plus from "./pages/plus";
 
-function App() {
+function App(props) {
   return (
     <Router>
       <div className="bg-custom h-screen">
@@ -12,7 +14,9 @@ function App() {
           <Route path="/" element={<Navbar />} />
 
           {/* Route for other pages */}
-          <Route path="/join" element={<JoinChallenge />} />
+          <Route path="/create" element={<Create />} />
+          <Route path="/join" element={<Join />} />
+          <Route path="/plus" element={<Plus />} />
         </Routes>
       </div>
     </Router>
