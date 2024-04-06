@@ -8,6 +8,7 @@ module.exports = {
           DEFAULT: "#0F2A4A",
           green: "#24AE8D",
           purple: "#521D7B",
+          gray: "#A1A1A12B",
         },
       },
     },
