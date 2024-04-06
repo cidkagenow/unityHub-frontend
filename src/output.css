@@ -1,4 +1,9 @@
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+
+.font-ibm-plex-mono {
+  font-family: 'IBM Plex Mono', monospace;
+}
