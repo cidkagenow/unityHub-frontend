@@ -4,6 +4,7 @@ import Navbar from "./Navbar";
 import Join from "./pages/Join";
 import Create from "./pages/create";
 import Plus from "./pages/plus";
+import Final from "./pages/final";
 
 function App(props) {
   return (
@@ -17,6 +18,7 @@ function App(props) {
           <Route path="/create" element={<Create />} />
           <Route path="/join" element={<Join />} />
           <Route path="/plus" element={<Plus />} />
+          <Route path="/final" element={<Final />} />
         </Routes>
       </div>
     </Router>

@@ -59,7 +59,7 @@ function Create() {
       </div>
 
       <div className="ml-20 mt-2">
-        <p>create new challenge</p>
+        <p>Create new challenge</p>
       </div>
 
       <div className="mt-20 ml-10 absolute flex h-3/5 w-3/5" id="left">
