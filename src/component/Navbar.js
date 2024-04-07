@@ -35,7 +35,7 @@ function Navbar() {
           in!
         </p>
         <p className="text-3xl" id="padding1">
-          Get your goal on with Squad Goals!!
+          Get your goal on with Unity hub!!
         </p>
       </div>
       <div className="absolute right-20 top-20 w-5/12 h-5/12 mt-10 mr-10">
