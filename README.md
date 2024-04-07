@@ -58,7 +58,7 @@ https://tinyurl.com/UNITYHUB-figma-design
 
 ### Challenge detail
 
-![Image Alt Text](./src/assets/details.jpeg
+![Image Alt Text](./src/assets/details.jpeg)
 
 ### User dashboard
 
