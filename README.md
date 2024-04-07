@@ -46,7 +46,7 @@ https://tinyurl.com/UNITYHUB-figma-design
 
 ### Home page
 
-![home](./src/assets/Main.jpeg)
+![home](./src/assets/home.png)
 
 ### Join challenge page
 
