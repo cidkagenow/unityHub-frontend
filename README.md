@@ -22,23 +22,23 @@ Squad Goals is the next big step in self-improvement by implementing fun mechani
 
 6. Earn Sol by creating challenges in the community
 
-# Github
+## Github
 
 https://github.com/cidkagenow/unityHub-frontend
 
-# Video demo
+## Video demo
 
 https://youtu.be/c_Qdhjlso84
 
-# Pitch slides
+## Pitch slides
 
 https://tinyurl.com/UNITYHUB2024
 
-# Twitter/X
+## Twitter/X
 
 https://twitter.com/UNITYHUB186914
 
-# Figma design
+## Figma design
 
 https://tinyurl.com/UNITYHUB-figma-design
 
@@ -46,20 +46,20 @@ https://tinyurl.com/UNITYHUB-figma-design
 
 ### Home page
 
-![Image Alt Text](./src/assets/Main.jpeg)
+![home](./src/assets/Main.jpeg)
 
 ### Join challenge page
 
-![Image Alt Text](./src/assets/join.jpeg)
+![join](./src/assets/join.jpeg)
 
 ### Create challenge page
 
-![Image Alt Text](./src/assets/create.jpeg)
+![create](./src/assets/create.jpeg)
 
 ### Challenge detail
 
-![Image Alt Text](./src/assets/details.jpeg)
+![details](./src/assets/details.jpeg)
 
 ### User dashboard
 
-![Image Alt Text](./src/assets/dashboard.jpeg)
+![dashboard](./src/assets/dashboard.jpeg)
