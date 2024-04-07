@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Summary
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Squad Goals is the next big step in self-improvement by implementing fun mechanics and block chain. Make goals for your friends and yourself and put in your stakes and see the self improvement and good habits come in!
 
-## Available Scripts
+# How to run
 
-In the project directory, you can run:
+## `npm intall`
 
-### `npm start`
+## `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# How it works
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. Create a new challenge or join a challenge
 
-### `npm test`
+2. A challenge is a 'SMART' goal (Specific, Measurable, Attainable, Relevant, Time-Bound)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. Stake "Sol" to start the challenge
 
-### `npm run build`
+4. When the challenge deadline is met, the contract verifies for all the participants if they have succeeded or not
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+5. If you loose, your stake is forfeited: 10% for to challenge creator, 10% to the protocol, and the rest for the winner.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+6. Earn Sol by creating challenges in the community
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Github
 
-### `npm run eject`
+https://github.com/cidkagenow/unityHub-frontend
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Video demo
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+https://youtu.be/c_Qdhjlso84
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Pitch slides
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+https://tinyurl.com/UNITYHUB2024
 
-## Learn More
+# Twitter/X
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+https://twitter.com/UNITYHUB186914
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Figma design
 
-### Code Splitting
+https://tinyurl.com/UNITYHUB-figma-design
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Screen shots
 
-### Analyzing the Bundle Size
+### Home page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Image Alt Text](./src/assets/Main.jpeg)
 
-### Making a Progressive Web App
+### Join challenge page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Image Alt Text](./src/assets/join.jpeg)
 
-### Advanced Configuration
+### Create challenge page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![Image Alt Text](./src/assets/create.jpeg)
 
-### Deployment
+### Challenge detail
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Image Alt Text](./src/assets/details.jpeg
 
-### `npm run build` fails to minify
+### User dashboard
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Image Alt Text](./src/assets/dashboard.jpeg)
