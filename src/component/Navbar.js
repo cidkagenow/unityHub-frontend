@@ -29,10 +29,10 @@ function Navbar() {
 
       <div className="w-6/12 h-6/12 ml-20 text-xl text-white" id="il">
         <p>
-          Squad Goals is the next big step in self-improvement by implementing
-          fun mechanics and blockchain. Make goals for your friends and yourself
-          and put in your stakes and see the self improvement and good habits
-          come in!
+          Unity hub is the next big step in self-improvement by implementing fun
+          mechanics and blockchain. Make goals for your friends and yourself and
+          put in your stakes and see the self improvement and good habits come
+          in!
         </p>
         <p className="text-3xl" id="padding1">
           Get your goal on with Squad Goals!!

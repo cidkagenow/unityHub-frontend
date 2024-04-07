@@ -1,6 +1,6 @@
 # Summary
 
-Squad Goals is the next big step in self-improvement by implementing fun mechanics and block chain. Make goals for your friends and yourself and put in your stakes and see the self improvement and good habits come in!
+Unity hub is the next big step in self-improvement by implementing fun mechanics and block chain. Make goals for your friends and yourself and put in your stakes and see the self improvement and good habits come in!
 
 # How to run
 
