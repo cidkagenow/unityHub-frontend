@@ -4,9 +4,9 @@ Squad Goals is the next big step in self-improvement by implementing fun mechani
 
 # How to run
 
-## `npm intall`
+### `npm intall`
 
-## `npm start`
+### `npm start`
 
 # How it works
 
